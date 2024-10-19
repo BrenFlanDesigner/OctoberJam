@@ -5,6 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/Peasant/BS_Peasant.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/BP_EnemyBaseUnit.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemyPeasant/BP_EnemyPeasant.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemySwordsman/BP_EnemySwordsman.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemyArcher/BP_EnemyArcher.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/BP_BaseUnitClass.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicInfantry/BP_BasicInfantry.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicArcher/BP_basicArcher.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/Peasant/AnimBP_Peasant.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/Peasant/BP_UnitPeasant.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicArcher/BS_BasicArcher.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicArcher/AnimBP_BasicArcher.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicInfantry/BS_basicInfantry.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BasicInfantry/AnimBP_basicInfantry.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Friendlies/BP_BaseFriendlyUnit.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemySwordsman/AnimBP_OrcInfantry.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/C3/XZ59A6ZFULN5X6F6XCEAGM.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemySwordsman/BS_OrcInfantry.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemyPeasant/BS_EnemyPeasant.uasset",
+				"C:/Users/ktrav/Documents/GitHub/OctoberJam/OctoberJam/Content/Units/Enemies/EnemyPeasant/AnimBP_EnemyPeasant.uasset",
 				"C:/Users/16318/Documents/Unreal Projects/OctoberJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
