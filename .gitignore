@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+OctoberJam/Saved/Telemetry/Telemetry.json
+OctoberJam/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_ea5d70b5306083b5/Default/DDCKey-Editor.txt
+OctoberJam/Saved/Logs/OctoberJam.log
+OctoberJam/Saved/Logs/OctoberJam-backup-2024.10.19-22.58.37.log
+OctoberJam/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+OctoberJam/Saved/Config/CrashReportClient/UECC-Windows-8FB6CF884797BBD464F7BFBB58178658/CrashReportClient.ini
+OctoberJam/Saved/AutoScreenshot.png
+OctoberJam/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+OctoberJam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+OctoberJam/Intermediate/CachedAssetRegistry_0.bin
