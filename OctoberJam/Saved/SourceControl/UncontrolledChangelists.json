@@ -7,6 +7,12 @@
 			"files": [
 				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/AI/BT_MeleeUnit.uasset",
 				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/AI/BB_Units.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/Player/Input/IMC_Player.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/Player/Input/IA_Move.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/Player/Input/IA_PlayerPawnMovement.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/Player/P_Player.uasset",
+				"C:/Users/16318/Documents/GitHub/OctoberJam/OctoberJam/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/16318/Documents/Unreal Projects/OctoberJam/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
